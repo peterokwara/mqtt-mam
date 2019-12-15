@@ -1,0 +1,10 @@
+{
+  "name": "raspberrypi",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "dependencies": {
+    "@iota/mam": "^0.7.3",
+    "mqtt": "^3.0.0"
+  }
+}
