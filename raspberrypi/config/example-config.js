@@ -1,5 +1,6 @@
 module.exports = {
     brokerUrl: "",
     port: "",
-    topic: ""
+    topic: "",
+    provider, ""
 };
