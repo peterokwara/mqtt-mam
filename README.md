@@ -5,7 +5,7 @@ This project seeks to demonstrate the use of MQTT protocol and IOTA-MAM to store
 A view of the temperature and humidity data on the iota tangle.
 
 <p  align="center">
-  <img src="assets/mam_explorer.png" width="600" />
+  <img src="assets/mam_explorer.png" width="900" />
 </p>
 
 ## Hardware setup
