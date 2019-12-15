@@ -64,7 +64,7 @@ module.exports = {
     topic: "",
     provider, ""
 };
-
+```
 # Usage
 
 ## Raspberry Pi
