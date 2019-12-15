@@ -52,7 +52,7 @@ WIFI_CONFIG = {
 }
 ```
 
-## Raspberry Pi
+### Raspberry Pi
 
 To install npm packages used for the Raspberry Pi, you run.
 
