@@ -2,3 +2,4 @@ nodemcu/config.py
 raspberrypi/node_modules
 raspberrypi/yarn-error.log
 raspberrypi/yarn.lock
+raspberrypi/config/config.js
