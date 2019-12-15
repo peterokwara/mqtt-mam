@@ -89,7 +89,7 @@ node app.js &
 
 # Contributing
 
-Can be found [here](https://github.com/peterokwara/mqtt-mam/blob/master/CONTRIBUTING.md)
+To contribute code to this repository please read the [CONTRIBUTING](https://github.com/peterokwara/mqtt-mam/blob/master/CONTRIBUTING.md) guidelines.
 
 # License
 
