@@ -1,5 +1,3 @@
-#Peter Okwara
-# F17/36211/2013 
 
 # This piece of code collects temperature and humidity values from the DHT11 temperature
 # and humidity sensor and transmits them to the mqtt broker
