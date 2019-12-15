@@ -9,14 +9,13 @@ This project seeks to demonstrate the use of MQTT protocol and IOTA-MAM to store
 Circuit design
 
 <p  align="center">
-  <img src="./assets/esp-current-sensor/esp-current-sensor.png" width="600" />
+  <img src="assets/nodemcu_dht11_schem.png" width="600" />
 </p>
 
 Board design and the final look
 
 <p align="center">
-  <img src="./assets/esp-current-sensor/esp-current-sensor-board.png" width="300" />
-  <img src="./assets/esp-current-sensor/esp-current-sensor-final.jpg" width="300" /> 
+  <img src="assets/nodemcu_dht11_bb.png" width="600" />
 </p>
 
 ## Installation
