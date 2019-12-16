@@ -18,10 +18,16 @@ Circuit design
   <img src="assets/nodemcu_dht11_schem.png" width="600" />
 </p>
 
-Board design and the final look
+Board design 
 
 <p align="center">
   <img src="assets/nodemcu_dht11_bb.png" width="600" />
+</p>
+
+Final look
+
+<p align="center">
+  <img src="assets/final.JPG" width="600" />
 </p>
 
 ## Installation
